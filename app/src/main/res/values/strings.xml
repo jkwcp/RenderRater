@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COMP3717_AndroidProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="reviewTitle">User Reviews</string>
+    <string name="rental_description">The majority of the country has a cold or severely cold winter climate, but southerly areas are warm in summer. Canada is sparsely populated, the majority of its land territory being dominated by forest and tundra and the Rocky Mountains. It is highly urbanized with 82 per cent of the 35.15 million people concentrated in large and medium-sized cities, many near the southern border. Its capital is Ottawa, and its largest metropolitan areas are Toronto</string>
+    <string name="access_token">pk.eyJ1IjoidG9tc29udGFpIiwiYSI6ImNqcnBoaXdwMDFlZDQ0NG11Y25td2tibHUifQ.CtFQFWyEooudz2WBS_hSkw</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
